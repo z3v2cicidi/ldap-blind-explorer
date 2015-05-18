@@ -1,0 +1,1 @@
+Sample application showing practical approach how to exploit Blind LDAP Injection flaw. The tool is intended to be used by IT security researchers and pentesters for educational purposes only. It was first presented at Black Hat 2011.
